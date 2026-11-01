@@ -155,9 +155,9 @@
         <div class="bank-details">
             <strong>Bank Transfer Details:</strong><br>
             Bank Name: Capitec <br>
-            Account Holder: A.Buthelezi <br>
-            Account Number:2133875154 <br>
-            Branch Code: 47705<br>
+            Account Holder: <br>
+            Account Number: <br>
+            Branch Code: <br>
             <em>Reference: Use your name</em>
         </div>
         <p style="font-size: 0.85rem; color: #7f8c8d; margin-bottom: 15px;">
@@ -170,18 +170,18 @@
 <script>
     // ⚙️ BUSINESS OWNER CONFIGURATION:
 
-    const WHATSAPP_NUMBER = "27640503383"
+    const WHATSAPP_NUMBER = ""
 
     // 📦 PRODUCT INVENTORY DATABASE:
   
     const products = [
-        { id: 1, name: "Premium Outdoor J ", price: 10.00, emoji: "☕" },
-        { id: 2, name: "Organic Cheese J", price: 20.00, emoji: "🌿" },
-        { id: 3, name: "420 Muffins", price: 10.00,  emoji: "🧼" },
-        { id: 4, name: "Premimum Outdoor Bag",  price: 20.00, emoji: "🌡️" },
-        { id: 5, name: "Rizzla", price: 1.00 },
-        { id: 6, name: "Outdoorbag", price: 15.00,} , 
-        { id: 7, name: "Caesar pop", price: 2.00, }  ,
+        { id: 1, name: "☕" },
+        { id: 2, name: " "🌿" },
+        { id: 3, name: ""🧼" },
+        { id: 4, name: " "🌡️" },
+        { id: 5, name: "
+        { id: 6, name: " , 
+        { id: 7, name: " ,
         
     ];
 
